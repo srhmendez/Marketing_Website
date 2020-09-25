@@ -583,7 +583,7 @@ img#leaf{
 	top: 0px;
     position: absolute;
 	z-index: 0;
-	margin-left:8%;
+	margin-left:10%;
 }
 div#quote{
 	width:50%;
@@ -646,21 +646,21 @@ hr.social{
 img#facebook{
 	position: absolute;
 	z-index: 1;
-	top:45rem;
+	top:44.5rem;
 	left: 15rem;
 	margin-bottom:2rem;
 }
 img#twitter{
 	position: absolute;
 	z-index: 1;
-	top:45rem;
+	top:44.5rem;
 	left: 18rem;
 	margin-bottom:2rem;
 }
 img#dots{
 	position: absolute;
 	z-index: 1;
-	top:45rem;
+	top:44.5rem;
 	left: 21rem;
 	margin-bottom:2rem;
 }
@@ -670,7 +670,7 @@ div#phone{
 	position:absolute;
 	z-index: 1;
 	top:45rem;
-	left:28%;
+	left:22%;
 	padding-left:10px;
 	padding-right:5px;
 }
